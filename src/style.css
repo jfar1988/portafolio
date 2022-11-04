@@ -343,7 +343,7 @@ h2{
         display: flex;
         text-align: start;
         flex-direction: row-reverse;
-        gap: 1rem;
+        gap: 10rem;
     }   
     .home_box{
         display: flex;
